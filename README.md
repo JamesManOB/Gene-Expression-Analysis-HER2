@@ -1,4 +1,4 @@
-# ANAT40040 Final Project
+# Gene Expression Analysis of HER2 Amplified Breast Cancer
 ANAT40040 Final Project: Gene Expression Analysis of HER2Amplified Breast Cancer
 
 This repository contains the R workflow used to complete Assignment 2: Gene Expression Analysis and Interpretation for the module ANAT40040 Bio Principles and Cell Organisation.
